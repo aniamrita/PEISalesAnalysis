@@ -34,3 +34,9 @@ Architecture Diagram:
                 │  & Reporting)   │
                 └────────┬────────┘
                     SQL Query 
+
+Unity Catalog
+
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/826be662-d4be-44ed-b8af-f4ec2d2a80c0" />
+
+
